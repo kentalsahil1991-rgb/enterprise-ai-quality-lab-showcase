@@ -76,3 +76,25 @@ The original implementation, internal evaluation logic, prompts, and reusable so
 
 **Project:** Enterprise AI Quality Lab  
 **Focus:** AI Quality Engineering, LLM Evaluation, Deterministic Validation, LLM-as-a-Judge, and Automated AI Testing.
+
+
+---
+
+## Project Documentation
+
+Explore the technical architecture and evaluation methodology:
+
+- [System Architecture](docs/architecture.md)
+
+## Project Highlights
+
+- Independent AI evaluation methodology
+- Deterministic and LLM-as-a-Judge evaluation
+- Golden dataset-based validation
+- Quality scoring and acceptance gates
+- Automated evaluation orchestration
+
+## Project Focus
+
+AI Quality Engineering | LLM Evaluation | AI Assurance | RAG Evaluation | Automated Testing
+
