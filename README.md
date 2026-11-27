@@ -98,3 +98,8 @@ Explore the technical architecture and evaluation methodology:
 
 AI Quality Engineering | LLM Evaluation | AI Assurance | RAG Evaluation | Automated Testing
 
+## Technical Documentation
+
+- [System Architecture](docs/architecture.md)
+- [Evaluation Methodology](docs/evaluation-methodology.md)
+
